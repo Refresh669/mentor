@@ -195,7 +195,7 @@ footer form span{
 /*}*/
 .sec_conteiner{
     padding-top: 43px;
-    max-width: 960px;
+    max-width: 300px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -277,6 +277,9 @@ section article p{
     background: rgba(0, 0, 0, 0.04);
     display: flex;
     justify-content: center;
+}
+.slider_item{
+    max-width: 360px;
 }
 /*slider*/
 /*.slider_item{
